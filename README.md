@@ -1,5 +1,5 @@
 # industrial-training-project
-# College Campus Network
+# Project 1: College Campus Network
 
 ## Project Overview
 
@@ -52,6 +52,46 @@ Router-on-a-Stick allows communication between VLANs.
 ### WAN Infrastructure
 Four Cisco routers connected in a ring topology provide redundant routing paths.
 
+# Project 2
+# Enterprise Multi-Branch Network Using OSPF
+
+## Overview
+
+Designed and implemented a multi-site enterprise network connecting a Headquarters and two Branch Offices using Cisco Packet Tracer. The project utilizes VLAN segmentation, VLSM addressing, Router-on-a-Stick, OSPF dynamic routing, centralized services, and ACL-based security.
+
+Technologies
+
+- Cisco Packet Tracer
+- VLANs
+- VLSM
+- OSPF
+- Router-on-a-Stick
+- ACLs
+- WAN Serial Links
+
+Network Structure
+
+- Headquarters (Area 0)
+- Branch Office 1 (Area 1)
+- Branch Office 2 (Area 2)
+
+Features
+
+- Departmental VLANs (Admin, IT, HR, Finance, Printers)
+- Inter-VLAN Routing
+- Multi-Area OSPF Routing
+- Centralized Server Deployment
+- Printer VLAN
+- Access Control Lists (ACLs)
+
+Key Learning Outcomes
+
+- Enterprise Network Design
+- Dynamic Routing with OSPF
+- VLAN Configuration
+- WAN Connectivity
+- Network Security Implementation
+- Troubleshooting and Verification
 
 ## Author
 
