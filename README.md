@@ -52,9 +52,6 @@ Router-on-a-Stick allows communication between VLANs.
 ### WAN Infrastructure
 Four Cisco routers connected in a ring topology provide redundant routing paths.
 
-## Project Topology
-
-Insert topology screenshot here.
 
 ## Author
 
@@ -62,6 +59,3 @@ Jubilance P. Mlalazi
 
 B.Tech Computer Science and Engineering
 
-Gulzar Group of Institutes
-
-Industrial Training at GN Infotech, Khanna
